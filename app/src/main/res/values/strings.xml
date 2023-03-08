@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Amana_Minesweeper</string>
+    <string name="smiley_face">🙂</string>
+    <string name="flag">🚩</string>
+    <string name="bomb">💣</string>
+    <string name="counter">000</string>
+</resources>
