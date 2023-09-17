@@ -1,4 +1,4 @@
-# Amana_MineSweeper
+# MineSweeper
 
 MineSweeper game for Mobile Dev Class. :)
 
